@@ -1,1 +1,13 @@
 /Users/sametyilmaz/Developer/jobtrackr/src/main/java/com/sametyilmaz/jobtrackr/JobtrackrApplication.java
+/Users/sametyilmaz/Developer/jobtrackr/src/main/java/com/sametyilmaz/jobtrackr/controller/AuthController.java
+/Users/sametyilmaz/Developer/jobtrackr/src/main/java/com/sametyilmaz/jobtrackr/dto/AuthResponse.java
+/Users/sametyilmaz/Developer/jobtrackr/src/main/java/com/sametyilmaz/jobtrackr/dto/LoginRequest.java
+/Users/sametyilmaz/Developer/jobtrackr/src/main/java/com/sametyilmaz/jobtrackr/dto/RegisterRequest.java
+/Users/sametyilmaz/Developer/jobtrackr/src/main/java/com/sametyilmaz/jobtrackr/entity/User.java
+/Users/sametyilmaz/Developer/jobtrackr/src/main/java/com/sametyilmaz/jobtrackr/repository/UserRepository.java
+/Users/sametyilmaz/Developer/jobtrackr/src/main/java/com/sametyilmaz/jobtrackr/security/JwtAuthFilter.java
+/Users/sametyilmaz/Developer/jobtrackr/src/main/java/com/sametyilmaz/jobtrackr/security/JwtService.java
+/Users/sametyilmaz/Developer/jobtrackr/src/main/java/com/sametyilmaz/jobtrackr/security/SecurityConfig.java
+/Users/sametyilmaz/Developer/jobtrackr/src/main/java/com/sametyilmaz/jobtrackr/security/UserDetailsServiceImpl.java
+/Users/sametyilmaz/Developer/jobtrackr/src/main/java/com/sametyilmaz/jobtrackr/service/AuthService.java
+/Users/sametyilmaz/Developer/jobtrackr/src/main/java/com/sametyilmaz/jobtrackr/service/UserService.java
