@@ -10,6 +10,7 @@
 /Users/sametyilmaz/Developer/jobtrackr/src/main/java/com/sametyilmaz/jobtrackr/entity/Application.java
 /Users/sametyilmaz/Developer/jobtrackr/src/main/java/com/sametyilmaz/jobtrackr/entity/ApplicationStatus.java
 /Users/sametyilmaz/Developer/jobtrackr/src/main/java/com/sametyilmaz/jobtrackr/entity/User.java
+/Users/sametyilmaz/Developer/jobtrackr/src/main/java/com/sametyilmaz/jobtrackr/exception/GlobalExceptionHandler.java
 /Users/sametyilmaz/Developer/jobtrackr/src/main/java/com/sametyilmaz/jobtrackr/repository/ApplicationRepository.java
 /Users/sametyilmaz/Developer/jobtrackr/src/main/java/com/sametyilmaz/jobtrackr/repository/UserRepository.java
 /Users/sametyilmaz/Developer/jobtrackr/src/main/java/com/sametyilmaz/jobtrackr/security/JwtAuthFilter.java
